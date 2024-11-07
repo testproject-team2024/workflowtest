@@ -1,3 +1,2 @@
 # workflowtest
-# workflowtest
-Feature 2
+Feature 2 and Feature 1
